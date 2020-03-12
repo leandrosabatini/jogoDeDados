@@ -1,0 +1,29 @@
+.dado {
+    border: 1px solid black;
+    display: block;
+    width: 17px;
+    height: 17px;
+    text-align: center;
+}
+
+.dado-container {
+    width: 100px;
+    display: inline-block;
+}
+
+table {
+    width: 600px;
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+.listaAcertos {
+    width: 200px;
+}
+
+.listaAcertos td {
+    text-align: center;
+}
